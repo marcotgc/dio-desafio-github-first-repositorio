@@ -1,1 +1,7 @@
-aqui vamos colocar as divas do Git e Github
+Aqui vamos armazenar dicas do Git e Github
+
+alguns comandos importantes:
+git status
+gid add.   ( adiciona os novos arquivos no controle de versão local  )
+git commit -m "inserir documentacao do que está sendo comitado"
+git push origin main
