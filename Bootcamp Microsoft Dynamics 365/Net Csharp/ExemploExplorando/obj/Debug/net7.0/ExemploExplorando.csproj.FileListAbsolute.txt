@@ -1,0 +1,15 @@
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfo.cs
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.exe
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.deps.json
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.runtimeconfig.json
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.dll
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.pdb
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.dll
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\obj\Debug\net7.0\refint\ExemploExplorando.dll
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.pdb
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.genruntimeconfig.cache
+C:\Users\mtuli\OneDrive\Desktop\cursos\Dev\Git\DIO\dio-desafio-github-first-repositorio\Bootcamp Microsoft Dynamics 365\Net Csharp\ExemploExplorando\obj\Debug\net7.0\ref\ExemploExplorando.dll

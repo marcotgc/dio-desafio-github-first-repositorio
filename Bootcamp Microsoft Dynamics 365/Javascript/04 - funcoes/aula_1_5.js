@@ -28,16 +28,13 @@ function calcularvalorPagar(precoEtiq,condPagamento){
 }
 
 
-
-
-
 // Main
 (function (){
     calcularvalorPagar(100,1);
     calcularvalorPagar(100,2);
     calcularvalorPagar(100,3);
     calcularvalorPagar(100,4);
-    
+
 })
 
 ();
